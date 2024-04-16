@@ -25,8 +25,7 @@ Sistem  Penjualan   adalah aplikasi berbasis Web untuk mengatur dan mencatat tra
 ## Download Zip Github Ini
 ## Masukan SQL Kedalam XAMPP
 buat data baru bernama vanjaya 
-dan impor file sql ke dalamnya 
-buka http://localhost/penjualan-main/pelanggan.php
+dan impor file sql ke dalamnya selanjutnya  buka http://localhost/penjualan-main/pelanggan.php
 
 # Panduan Pengeditan 
 buka file yang ingin di edit dan tekan CTRL + F untuk mencari keyword yang ingin diubah dan lakukan pengubahan 
