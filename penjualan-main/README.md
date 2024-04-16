@@ -31,7 +31,7 @@ dan impor file sql ke dalamnya selanjutnya  buka http://localhost/penjualan-main
 buka file yang ingin di edit dan tekan CTRL + F untuk mencari keyword yang ingin diubah dan lakukan pengubahan 
 
 
-
+# Tampilan Website 
 ![Cuplikan layar 2024-04-16 184112](https://github.com/muhammadsolehudin3123/muhammad-solehudin31/assets/152485242/bb05ac1f-8ca8-455e-b728-62fd470197a7)
 ![Cuplikan layar 2024-04-16 190456](https://github.com/muhammadsolehudin3123/muhammad-solehudin31/assets/152485242/13d2b41c-4093-4ab2-ab48-687b2dd21728)
 ![Cuplikan layar 2024-04-16 190410](https://github.com/muhammadsolehudin3123/muhammad-solehudin31/assets/152485242/9b463b7b-fc2a-4eb5-8b11-4af71b79213c)
