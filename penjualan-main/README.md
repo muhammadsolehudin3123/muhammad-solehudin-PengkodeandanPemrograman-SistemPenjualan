@@ -21,8 +21,9 @@ https://github.com/viign/penjualan
 Sistem  Penjualan   adalah aplikasi berbasis Web untuk mengatur dan mencatat transaksi penjualan berdasarkan aktivitas cuctomer. perubahaan yang saya lakukan terkait codingan pada sistem ini antara lain: 
 1. menambahkan logo yang telah saya desain
 2. mengubah jenis font website tersebut
-3. mengubah warna tampilan seperti warna background dan warna elemen yang tersedia
-4. mengubah isi website seperti mengubah nama perusaahaan menjadi nama sendiri
+3. mengubah ukuran front
+5. mengubah warna tampilan seperti warna background dan warna elemen yang tersedia
+6. mengubah isi website seperti mengubah nama perusaahaan menjadi nama sendiri
 
 # Tampilan Website Lama  
 
@@ -33,11 +34,19 @@ Sistem  Penjualan   adalah aplikasi berbasis Web untuk mengatur dan mencatat tra
 ![178160226-0273a873-20c3-42c2-92be-a0e5283de833](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/e7487ef5-ed80-4a6c-9f02-d0402af952e9)
 
 # Tampilan Website Baru 
+![IMG-20240416-WA0028-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/ec65da4a-0e79-4c9a-aaab-3e6b58d0554d)
 ![IMG-20240416-WA0032-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/17a07aba-edbc-4ce4-be2f-95f5ef58b6ce)
 ![IMG-20240416-WA0031-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/f5d9ea70-5435-4c3f-af98-2d957d79ab8b)
 ![IMG-20240416-WA0030-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/47a7d315-0364-4d86-a6ea-fa195d55f83d)
 ![IMG-20240416-WA0029-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/bccb9e6e-8812-4b25-8516-04b394be2312)
-![IMG-20240416-WA0028-picsay](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/ec65da4a-0e79-4c9a-aaab-3e6b58d0554d)
+
+# Kreasi lain 
+
+
+![Cuplikan layar 2024-04-17 000039](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/be24e9ec-d29f-4644-8c02-c7473be2fbd6)
+![Cuplikan layar 2024-04-17 000002](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/d38feaf7-9a96-462c-9f2f-7d32bd06c6a2)
+![Cuplikan layar 2024-04-17 000016](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/cddd0991-25dd-499d-8eb3-bf276ea55481)
+![Cuplikan layar 2024-04-17 000027](https://github.com/muhammadsolehudin3123/muhammad-solehudin-PengkodeandanPemrograman-SistemPenjualan/assets/152485242/20865cd8-0c6f-473a-a3b9-5719a283e386)
 
 
 # tampilan sistem operasi 
