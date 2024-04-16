@@ -10,7 +10,8 @@ Muhammad Solehudin
 Pengkodean dan Pemrograman 
 
 Kelas D (S1 Akuntansi)
-
+# Referensi Github 
+https://github.com/viign/penjualan
 
 # Deskripsi
 Sistem  Penjualan   adalah aplikasi berbasis Web untuk mengatur dan mencatat transaksi penjualan berdasarkan aktivitas cuctomer 
